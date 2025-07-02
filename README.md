@@ -126,7 +126,7 @@ The dashboard was developed using Pivot Tables and includes:
 - Daily & hourly trend charts
 - Pie charts for sales % by category & size
 - Bar charts for best/worst selling pizzas
-- Slicers for interactivity (e.g., filter by category or size)
+- Slicers for interactivity 
 
 ![image](https://github.com/user-attachments/assets/2b00b6a0-201f-483a-a8a7-bf4db20541ab)
 
